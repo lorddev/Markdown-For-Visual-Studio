@@ -1,5 +1,4 @@
-Markdown Helper For Visual Studio
-=================================
+# MarkdownVS 10
 
 About
 ------
